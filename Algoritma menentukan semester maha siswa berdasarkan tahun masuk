@@ -1,0 +1,28 @@
+tentu saya bantu buat algoritmanya:
+Algoritma:
+#.Input
+#.tahun-masuk:tahun mahasiswa masuk kuliah
+#.tahun-sekarang:tahun sa,at ini(tahun akademik yang sedang berjalan)
+#.hitung selisih tahun
+#.selisih-tahun=tahun-sekarang-tahun masuk
+#.hitung semester:
+#.jika selisi-tahun genap,maka semester=selisih tahun*2
+#.jika selisih-tahun ganjil maka semester=(selisi_tahun_tahun+1)*2
+#.OUTPUT
+#.semester mahasiswa
+Contoh dalam python!
+def hitung-semester=(tahun-masuk-tahun-sekarang.semester=(selisi-tahun+1)*2
+#.if selisih-tahun1/0 2==0:
+#.semester=1
+#.return semestet
+#.CONTOH PENGGUNA,AN
+#.Selisi-tahun:menunjukan berapa lama mahasiswa berkuliah.
+#.semester:Di hitung berdasarkan selisih tahun denhan asumsim setiap tahun ada 2 semeste. jika selisi tahun genap. maka mahasiswa sudah menyelesaikan semester genap.
+#.kondisi genap_ganjil:di gunakan untuk menyusuaikan dengan perhitungan semester yang benar.
+#.CONTOH:
+#.Algoeitma ini mengansumsikan setiap tahun aka demik memilih dua semeste.
+#.jika sistem aka demik di kampus berbeda(misal,ada semester pendek),Algoritma perlu di sesuaikan
+#.untuk implementasi dalam bahasa pemograman lain, prinsipnya sama hanya sintasknya yang berbeda
+#.PENTING
+#.tahun aka demik:pastikan tahun aka demik yang digunakan adalah tahun aka demik.bukan tahun kelender.
+#.semester awal:perhatikan mahasiswa mulai kuliah di semester ganjil atau genap. jika semester awal berbeda.penyusuaian kecil mungkin di perlukan.
